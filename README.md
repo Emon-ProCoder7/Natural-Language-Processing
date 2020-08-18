@@ -21,7 +21,7 @@ One of the beauties of natural language parsing with regular expressions is the 
   
 ### Project Goals:
   - Finding out the main topics of discussion in the novel and can begin to discern some of the author’s thoughts and beliefs 
-  ***"Without Actually Reading The Novel"!***▶
+  ***"Without Actually Reading The Novel"!*** ▶
   
   
 👈🏻*Click Here* [<img align="left" alt="Emon-ProCoder7 | Jupyter" width="32px" src="https://raw.githubusercontent.com/Emon-ProCoder7/python_projects/master/jupyter.png"/>](https://github.com/Emon-ProCoder7/Natural-Language-Processing/blob/master/iliad_NLP.ipynb)
