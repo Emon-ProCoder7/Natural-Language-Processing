@@ -31,7 +31,7 @@ One of the beauties of natural language parsing with regular expressions is the 
 
 
 
-## 01. Who sent The Letter?
+## 02. Who sent The Letter?
 
   I’ve received an anonymous postcard from a friend who I haven’t seen in years. My friend did not leave a name, but the card is definitely addressed to me. So far, I’ve narrowed my search down to three friends, based on handwriting:
 
