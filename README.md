@@ -25,3 +25,24 @@ One of the beauties of natural language parsing with regular expressions is the 
   
   
 👈🏻*Click Here* [<img align="left" alt="Emon-ProCoder7 | Jupyter" width="32px" src="https://raw.githubusercontent.com/Emon-ProCoder7/python_projects/master/jupyter.png"/>](https://github.com/Emon-ProCoder7/Natural-Language-Processing/blob/master/iliad_NLP.ipynb)
+
+
+
+
+
+
+## 01. Who sent The Letter?
+
+  I’ve received an anonymous postcard from a friend who I haven’t seen in years. My friend did not leave a name, but the card is definitely addressed to me. So far, I’ve narrowed my search down to three friends, based on handwriting:
+
+- Alexandra Daddario
+- Benedict Cumberbatch
+- Jennifer Lawrence 
+
+I have all the past writings from each friend saved as text here: [Alexandra Daddario](Alexandra_Daddario_raw.py),  [Benedict Cumberbatch](Benedict_Cumberbatch_raw.py), [Jennifer Lawrence](Jennifer_Lawrence_raw.py)
+  
+### Project Goals:
+
+  - But which one sent the card?
+  
+👈🏻*Click Here* [<img align="left" alt="Emon-ProCoder7 | Jupyter" width="32px" src="https://raw.githubusercontent.com/Emon-ProCoder7/python_projects/master/jupyter.png"/>](https://github.com/Emon-ProCoder7/Natural-Language-Processing/blob/master/mystery_friend.ipynb)
