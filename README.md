@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+<p align='left'> 
+                         
+  <a href="#"><img src="https://badges.pufler.dev/visits/Emon-ProCoder7/Data-Driven-Decision-Making-With-Statistics"></a>
+</p>
 
-You can use the [editor on GitHub](https://github.com/Emon-ProCoder7/Natural-Language-Processing/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+  
+# **HYPOTHESIS TESTING WITH SCIPY**   
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+  
+## 01. Sample Size Determination
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Emon-ProCoder7/Natural-Language-Processing/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+  Sample size determination for, Nosh Mish Mosh, a recipe and ingredient meal delivery service. They ship the raw materials and people get to cook it at their home! These rainbow fingerling potatoes don’t come cheap. They’d like to know for sure that they’ll be pulling in at least $1240 more every week. In order to make product and interface A/B testing decisions to grab more customers, here survey sample size determination is needed for decision making.
+  
+### Project Goals:
+  - Baseline Conversion Rate.
+  - Lift
+  - Statistical Significance at 90%
+  - What amount of customers need to be surveyed.
+  
+  
+👈🏻*Click Here* [<img align="left" alt="Emon-ProCoder7 | Jupyter" width="32px" src="https://raw.githubusercontent.com/Emon-ProCoder7/python_projects/master/jupyter.png"/>](https://github.com/Emon-ProCoder7/Data-Driven-Decision-Making-With-Statistics/blob/master/Sample_size_determination.ipynb)
